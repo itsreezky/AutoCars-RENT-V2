@@ -1,56 +1,92 @@
 
 <p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="https://server.itsreezky.my.id/source/img/ReezkyLogoNoBGBlue.png" width="400" alt="Reezky Logo"></a></p>
 
-## About Reezky
+# About Reezky
 
 Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application developer with a diverse skill set. My expertise spans a range of programming languages and technologies, allowing me to craft dynamic and engaging digital solutions.
 
 <p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/ReezkyIconROrange.png" width="50" alt="Autocars Logo"></a><b>AUTOCARS - RENT</b></p>
 <p align="center"><b>Responsive Web & Mobile Cars Rentalling</b></p>
-<p align="center"><a href="https://demo.itsreezky.my.id/Autocars-RENT/">( DEMO VIEW )</a></p>
 
-## Public & Member Screenshoot Page
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/Market01.png" width="250" alt="Market Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/Market01_dark.png" width="250" alt="Market Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/Cars-detail.png" width="450" alt="Market Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/grid.png" width="450" alt="Market Page"></a>
+## Screenshoot Page & Features
 
-Fiture : 
-<b> Public </b>
-- Showing Customize Page Controller in Right Side
-- Floating Customer Service Button ( DEMO )
+### 1. Market Not Logged In
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Market.png" width="450" alt="Market Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Market_dark.png" width="450" alt="Market Page"></a>
+
+### 2. Login & Register
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Login.png" width="450" alt="Register Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Register.png" width="450" alt="Login Page"></a>
+
+### 3. Profile Has Verified & Wishlist
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Profile.png" width="450" alt="Profile Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Wishlist.png" width="450" alt="Wishlist Page"></a>
+
+### 4. Cars Detail & Rent
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Cars_detail.png" width="450" alt="Wishlist Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Cars_rent.png" width="450" alt="Wishlist Page"></a>
+
+### 5. Owners & Garage Access
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Owner_studio.png" width="450" alt="Owners Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Garage_studio.png" width="450" alt="Garage Page"></a>
+
+### 6. Administrator Page
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Admin.png" width="450" alt="Market Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Admin_dark.png" width="450" alt="Market Page"></a>
+
+### 7. Costumize
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Costumize.png" width="450" alt="Costumize Page"></a>
+
+## Fiture Description : 
+<b> Public Visitor </b>
+- View Market
+- View Cars Detail
   
-<b> Member Regular and Verified </b> 
+<b> Regular Member ( Not Verified ) </b> 
 - View Market Page
 - Edit Profile Data
 - Edit Photo Profile
 ( All File Saved in Public Storage Directory, and saved in users folder name, not mixed with another users )
-- Verification Profile
+- Customer Service Floating Button Showing
+- Have Button TO Verification Profile in Profile Page
 ( Upload Identity )
-- Wishlist Will Show After Status 'Member Verified'
-- For Cart and Make Order and another fiture, U Can Create Manually or Contact Me.
+- Wishlist Will Show After Verification
+- Car Rent Will Show After Verification
 
-## Owner Cars & Garage Studio
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/Profile_Owner.png" width="400" alt="Market Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/Garage_Owner.png" width="250" alt="Market Page"></a>
+<b> Verified Member </b>
+- View Market Page
+- Edit Profile Data
+- Edit Photo Profile
+( All File Saved in Public Storage Directory, and saved in users folder name, not mixed with another users )
+- Have Table History Rent In Profile Page
+- Customer Service Floating Button Showing
+- Can Add Wishlist Cars and Saved In Wishlist Page
+- Can Make Rent Cars Request and Saved In Profile Page ( History Rent )
 
-Fiture : 
-<b> Owners </b> 
+<b> Owners Access & Schema To Join </b>
+- All visitor can register and join to Owners Account
 - Get Owners Verification Badge In Cars Detail Page
-( Upload Identity After Uploaded, All Owners Will Get Status 'PENDING' Untill Administrator Check Data And Change Status 'Verified Owners' Then Owners Can Access Owners Fiture )
+( Upload Identity then After Uploaded, All Owners Will Get Status 'PENDING' Untill Administrator Check Data And Change Status 'Verified Owners' Then Owners Can Access Owners Fiture )
 - Edit Owners Profile Data
 - Edit Owenrs Photo Profile
 - ( All File Saved in Public Storage Directory, and saved in users folder name, not mixed with another owners )
-- Access Garage Studio and Can CRUD Cars, Cars Will Auto Display To Market Page With Your Profile.
+- Access Garage Studio and Can View,Edit,Add,Delete Cars Data.
+- All Cars After Owners Add Will Auto Get Status "Available"
+- Cars Will Auto Display To Market Page With Your Profile
 - Controlling Cars When On Duty ( DEMO )
 
-## Copyright
-Everything that I have shared here is allowed to be used or developed again, I do not demand to include copyright, it goes back to each individual. I made this because of a hobby. I hope what I created can help you
+<b> Administrator Access </b>
+- Can Check All Users Data
+- Can Check All Owners Data
+- Can Check All Cars Data
+- Can Check All Owners Pending Data To Validate Identity and Click Button Verificate then Owners Can Access the fitures
 
-## Special Thanks
+## Message & Copyright
+Everything I share here aims to present coding field tests conducted by PT. TransIndo Data Perkasa. I hope the results meet the criteria satisfactorily. If I do not pass the test, I will continue to develop this website in the next repository. Until I receive feedback, I won't proceed further. Thank you for reading this far. Warm regards, Reezky.
+
+## Special Thanks for :
 - <a href="https://laravel.com/">Laravel</a>
 - <a href="https://github.com/haruncpi/laravel-id-generator">Haruncpi Laravel ID Generator</a>
 - <a href="https://github.com/ramsey/uuid">Ramsey UUID</a>
 - <a href="https://github.com/realrashid/sweet-alert">Realrashid Sweet-Alert</a>
 - <a href="https://yajrabox.com/docs/laravel-datatables/10.0">Yajra Data Tables</a>
-- <b>Phoenix Pro KIT</b>
