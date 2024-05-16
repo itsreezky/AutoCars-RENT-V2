@@ -105,6 +105,19 @@ Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application develop
 - Pass  : rizki21123
 - Link  : <a href="https://demo.itsreezky.my.id/TEST-TransIndoCars/public/administrator/in">Click Me </a>
 
+## How To Install
+
+1. type "git clone https://github.com/itsreezky/TEST-TransIndoCars.git" ( without " " )
+2. extract in your directory
+3. edit .env file in DATABASE line into your database set up
+4. open VSCODE then open the folder
+5. open VSCODE terminal then type "composer update" ( without " " )
+6. type "php artisan migrate" ( without " " )
+7. or you can download database <a href="http://resource.itsreezky.my.id/transindo/autocars-rent.sql">here</a>
+8. type "php artisan serve" ( without " " )
+9. Happy Coding !
+
+   
 ## Message & Copyright
 Everything I share here aims to present coding field tests conducted by PT. TransIndo Data Perkasa. I hope the results meet the criteria satisfactorily. If I do not pass the test, I will continue to develop this website in the next repository. Until I receive feedback, I won't proceed further. Thank you for reading this far. Warm regards, Reezky.
 
