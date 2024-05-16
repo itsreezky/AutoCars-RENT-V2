@@ -7,6 +7,7 @@ Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application develop
 
 <p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/ReezkyIconROrange.png" width="50" alt="Autocars Logo"></a><b>AUTOCARS - RENT</b></p>
 <p align="center"><b>Responsive Web & Mobile Cars Rentalling</b></p>
+<p align="center"><b><a href="http://demo.itsreezky.my.id/TEST-TransIndoCars/">( DEMO PAGE )</a></b></p>
 
 ## Screenshoot Page & Features
 
@@ -80,6 +81,29 @@ Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application develop
 - Can Check All Owners Data
 - Can Check All Cars Data
 - Can Check All Owners Pending Data To Validate Identity and Click Button Verificate then Owners Can Access the fitures
+
+## Route & Access DEMO in DEMO VIEW
+### 1. Manual Register Member
+- You can manually register with status Regular Member
+- You can manualy verification in Progile Page
+  
+### 2. Use Demo Verified Member
+- Email : demo@demo.com
+- Pass  : demo123
+- Link  : <a href="http://demo.itsreezky.my.id/TEST-TransIndoCars/public/login">Click Me </a>
+
+### 3. Manual Register Owners ( WILL GET PENDING STATUS )
+- You can manually register in market page ( TOP BAR ) become a owner and fill the form
+
+### 4. Use Demo Verified Owner
+- Email : hello@itsreezky.my.id
+- Pass  : rizki21123
+- Link  : <a href="http://demo.itsreezky.my.id/TEST-TransIndoCars/public/owner/login">Click Me </a>
+
+### 5. Administration Access
+- Email : master@itsreezky.my.id
+- Pass  : rizki21123
+- Link  : <a href="https://demo.itsreezky.my.id/TEST-TransIndoCars/public/administrator/in">Click Me </a>
 
 ## Message & Copyright
 Everything I share here aims to present coding field tests conducted by PT. TransIndo Data Perkasa. I hope the results meet the criteria satisfactorily. If I do not pass the test, I will continue to develop this website in the next repository. Until I receive feedback, I won't proceed further. Thank you for reading this far. Warm regards, Reezky.
