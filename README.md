@@ -5,38 +5,38 @@
 
 Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application developer with a diverse skill set. My expertise spans a range of programming languages and technologies, allowing me to craft dynamic and engaging digital solutions.
 
-<p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/autocars/ReezkyIconROrange.png" width="50" alt="Autocars Logo"></a><b>AUTOCARS - RENT</b></p>
+<p align="center"><a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/autocars/ReezkyIconROrange.png" width="50" alt="Autocars Logo"></a><b>AUTOCARS - RENT</b></p>
 <p align="center"><b>Responsive Web & Mobile Cars Rentalling</b></p>
 <p align="center"><b><a href="http://demo.itsreezky.my.id/TEST-TransIndoCars/">( DEMO PAGE )</a></b></p>
 
 ## Screenshoot Page & Features
 
 ### 1. Market Not Logged In
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Market.png" width="450" alt="Market Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Market_dark.png" width="450" alt="Market Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Market.png" width="450" alt="Market Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Market_dark.png" width="450" alt="Market Page"></a>
 
 ### 2. Login & Register
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Login.png" width="450" alt="Register Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Register.png" width="450" alt="Login Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Login.png" width="450" alt="Register Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Register.png" width="450" alt="Login Page"></a>
 
 ### 3. Profile Has Verified & Wishlist
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Profile.png" width="450" alt="Profile Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Wishlist.png" width="450" alt="Wishlist Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Profile.png" width="450" alt="Profile Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Wishlist.png" width="450" alt="Wishlist Page"></a>
 
 ### 4. Cars Detail & Rent
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Cars_detail.png" width="450" alt="Wishlist Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Cars_rent.png" width="450" alt="Wishlist Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Cars_detail.png" width="450" alt="Wishlist Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Cars_rent.png" width="450" alt="Wishlist Page"></a>
 
 ### 5. Owners & Garage Access
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Owner_studio.png" width="450" alt="Owners Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Garage_studio.png" width="450" alt="Garage Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Owner_studio.png" width="450" alt="Owners Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Garage_studio.png" width="450" alt="Garage Page"></a>
 
 ### 6. Administrator Page
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Admin.png" width="450" alt="Market Page"></a>
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Admin_dark.png" width="450" alt="Market Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Admin.png" width="450" alt="Market Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Admin_dark.png" width="450" alt="Market Page"></a>
 
 ### 7. Costumize
-<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/transindo/Costumize.png" width="450" alt="Costumize Page"></a>
+<a href="http://itsreezky.my.id" target="_blank"><img src="http://resource.itsreezky.my.id/demo-web/transindo/Costumize.png" width="450" alt="Costumize Page"></a>
 
 ## Fiture Description : 
 <b> Public Visitor </b>
@@ -113,7 +113,7 @@ Greetings! I'm Reezky (Muhammad Rizki), a proficient web and application develop
 4. open VSCODE then open the folder
 5. open VSCODE terminal then type "composer update" ( without " " )
 6. type "php artisan migrate" ( without " " )
-7. or you can download database <a href="http://resource.itsreezky.my.id/transindo/autocars-rent.sql">here</a>
+7. or you can download database <a href="http://resource.itsreezky.my.id/demo-web/transindo/autocars-rent.sql">here</a>
 8. type "php artisan serve" ( without " " )
 9. Happy Coding !
 
